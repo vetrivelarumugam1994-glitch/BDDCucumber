@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:cucumber": "cucumber-js"
+    "test:cucumber": "cucumber-js",
+    "allure:serve": "npx allure serve ./allure-results"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,10 @@
     "@cucumber/cucumber": "^12.8.2",
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
+    "allure-playwright": "^3.8.0",
     "playwright": "^1.59.1"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.40.0"
   }
 }

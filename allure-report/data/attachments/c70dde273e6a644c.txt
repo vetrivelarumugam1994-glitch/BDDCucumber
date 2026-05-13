@@ -1,0 +1,2 @@
+Minimum price : 17,990
+add-to-cart confirmation message did not appear

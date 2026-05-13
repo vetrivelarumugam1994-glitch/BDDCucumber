@@ -1,0 +1,5 @@
+number of t.shirt :50
+Total prices: 50
+count Of discount prices: 46
+Minimum price (original format): Rs. 1119
+Product name: ANDREW HILL
